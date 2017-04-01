@@ -1,0 +1,7 @@
+; HN953L.def : Declares the module parameters for the DLL.
+
+LIBRARY      "HN953L"
+DESCRIPTION  'HN953L Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here

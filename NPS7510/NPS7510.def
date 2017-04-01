@@ -1,0 +1,7 @@
+; NPS7510.def : Declares the module parameters for the DLL.
+
+LIBRARY      "NPS7510"
+DESCRIPTION  'NPS7510 Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
